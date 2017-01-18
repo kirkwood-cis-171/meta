@@ -3,36 +3,125 @@
 
 #### Jan 18
 
+- Course Outline, grades
+- Email Contact Info ( You will be responsible for checking)
+- Class workflow, assignment link, submitting an assignment
+- Writing our first java program (HelloJava)
+	* Single file hello world
+	* Multi file hello world
+- Open this project in Intelli-J
+
+##### Homework
+
+Read through page 42
+
+
 ## Week 2
 
 #### Jan 23
+
+##### Lecture, Ch1, Ch2 - 42
+
+- Java types, int, string, bool, array, arrayList
+- Create a new Intell-J project and run it
+- If statement / for-loop
+- Scanner for StdIn
+
+
+##### Homework
+ 
+ Build a calculator
+ 
+
 #### Jan 25
+
+##### Homework Q & A
+
+##### Homework
+
+Finish reading Chapter 2
 
 ## Week 3
 
 #### Jan 30
+
+##### Lecture Objects in Java
+
+##### Homework
+
 #### Feb 01
+
+##### Homework Q & A
+
+##### Homework
+
+Read Chapter 3
 
 ## Week 4
 
 #### Feb 06
+
+##### Lecture Chapter 3
+
+##### Homework
+
 #### Feb 08
+
+##### Homework Q & A
+
+##### Homework
+
+Read Chapter 4 to page 114 (Checkpoint 1)
 
 ## Week 5
 
 #### Feb 13
+
+##### Lecture Chapter 4 - 114
+
+##### Homework
+
 #### Feb 15
 
+##### Homework Q & A
+
+##### Homework
+
+Read remaining Chapter 4
+	
 ## Week 6
 
 #### Feb 20
+
+##### Lecture Chapter 4
+
+- User Input
+- Threads
+##### Homework
+
 #### Feb 22
+
+##### Homework Q & A
+
+##### Homework
+
+Read Chapter 5
 
 ## Week 7
 
 #### Feb 27
+
+##### Lecture Chapter 5
+
+##### Homework
+
 #### Mar 01
 
+##### Homework Q & A
+
+##### Homework
+
+Read 
 ## Week 8
 
 #### Mar 06
