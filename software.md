@@ -1,1 +1,2 @@
-[Github Desktop](https://desktop.github.com)
+- [Github Desktop](https://desktop.github.com)
+- [Intelli-J](http://www.jetbrains.com/idea/?fromMenu#chooseYourEdition)
