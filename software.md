@@ -1,4 +1,4 @@
 - [Github Desktop](https://desktop.github.com)
 - [Intelli-J](http://www.jetbrains.com/idea/?fromMenu#chooseYourEdition)
 - [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-- [Git command line optional](https://git-scm.com/download/win)
+- [Git command line optional, choose 64bit portable](https://git-scm.com/download/win)
